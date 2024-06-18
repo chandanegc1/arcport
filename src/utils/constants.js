@@ -8,7 +8,7 @@ function generateArray() {
       initialImg: `https://picsum.photos/200/${300 + i}?blur=2`,
       hoverImage: `https://picsum.photos/200/${300 + i}`,
       data: {
-        name:"HOUSE-M",
+        name:"HOUSE-M", 
         category:"DESIGN",
         year:2000+i,
         status:"COMPLETE",
